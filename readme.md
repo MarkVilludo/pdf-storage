@@ -26,3 +26,5 @@ MAIL_ENCRYPTION=tls
 
  You may run `php artisan serve` in your terminal in project root.
 
+## Preview 
+
